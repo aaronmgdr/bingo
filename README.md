@@ -1,0 +1,2 @@
+# bingo
+### a Sails application
